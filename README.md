@@ -4,5 +4,6 @@ import java.io.*;
 class HelloWorld{
 public static void main(String[] args){
   System.out.println("HElloWorld");
+  System.out.println("Koi Masla Nahi");
 }
 }
